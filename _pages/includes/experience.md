@@ -1,4 +1,4 @@
-# 💻 Internships
+# 💻 Research & Career Experience
 
 <div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/ByteDance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
