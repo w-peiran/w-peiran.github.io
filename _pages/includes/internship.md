@@ -29,9 +29,9 @@
 </div>
 </div>
 
-<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/UIUC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/UWisc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**University of Wisconsin–Madison, SaFoLab** | Research Intern | 2024.01 - Present
+**University of Wisconsin–Madison, SaFoLab** | Research Intern | 2023.12 - 2024.10
 - Large language model jailbreak defense
 - Prompt injection attack & defense
 - LLM for security
