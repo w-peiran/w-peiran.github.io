@@ -1,33 +1,67 @@
 # 💻 Internships
 
-<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/jhu_med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/ByteDance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**Radiology and Radiological Science, Johns Hopkins Medicine** | Research Assistant | May. 2023 – Sep. 2023
-- Synthesizing high-resolution vessel Wall MRI for visualization of Lenticulostriate Arteries
-- Implement training and inference pipeline for PD to WIP modality conversion.
-- Implement UNet, CGAN, Cycle GAN as baseline methods.
-- Propose and implement condiction DDPM for PD to WIP modality conversion.
+**ByteDance Inc., security research group** | Research Intern | 2024.07 - 2025.01
+- Large language model hallucination detection using internal states.
+- Split learning privacy
 </div>
 </div>
 
-<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/sensetime_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/Baidu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**Sensetime Research** | Researcher | Jul. 2021 – Nov. 2022
-- Change detection in remote sensing reaching 80% in precision and recall.
-- Reproduce several SOTA papers in semantic segmentation and remote sensing.
-- Research: sample efficiency (self-supervised, semi-supervised and weakly supervised learning).
+**Baidu Inc., ACG summer intern camp** | Research Intern | 2024.05 - 2024.07
+- Large language model distributed training acceleration
 </div>
 </div>
 
-<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/webank_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/Future.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**Future Capital, investment group** | Investment Intern | 2023.05 - 2023.07
+- Providing investment suggestions on computer science industry
+</div>
+</div>
 
-**WeBank** | Machine Learning Engineer | Jun. 2020 - Sep. 2020
-- Public Sentiment and Risk Control Project: text analysis based on big data, distributed training, and Hadoop clusters.
-- Train an NLP model on web-crawled news text based on bert, xgboost, etc. and build a textual processing system based
-on Hadoop clusters; conduct spam classification and sentiment analysis.
-- Iteratively improve the trained spam classification model with real-time data and problems.
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/Microsoft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Microsoft Research Asia, System Research Group** | Research Intern | 2021.09 - 2022.06
+- Large language model distributed training acceleration
+</div>
+</div>
+
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/UIUC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**University of Illinois Urbana-Champaign, Dream Lab** | Research Intern | 2024.01 - Present
+- Dataset distillation
+- AI safety
+</div>
+</div>
+
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/UCSD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**University of California, San Diego, DataSmith Lab** | Research Intern | 2023.08 - 2024.02
+- Text-To-Image (TTI) model safety
+</div>
+</div>
+
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/THU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Tsinghua University** | Research Assistant | 2022.09 - 2023.0
+- Network measurement
+- Federated learning
+</div>
+</div>
+
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/SCU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Sichuan University, Prof. Beibei Li's Lab** | Research Assistant | 2022.09 - 2023.0
+- Federated learning
+</div>
+</div>
+
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/SCU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Sichuan University, Prof. Cheng Huang's Lab** | Research Intern | 2020.05 - 2020.11
+- Cryptomining detection on web
 </div>
 </div>

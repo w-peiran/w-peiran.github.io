@@ -1,6 +1,5 @@
 # 🎖 Honors and Awards
-- Outstanding Thesis Awards, awarded by South China University of Technology
-- 2018-19 Scholarship, awarded by South China University of Technology
-- The 2020 Contemporary Undergraduate Mathematical Contest in Modeling **First Prize**
-- The 3rd Zhong Qing Bei National Mathematical Contest in Modeling ( undergraduate group) **Second Prize**
-- The 2020 May Day Mathematical Contest in Modeling **First Prize**
+- *2024.10* **<font color='red'>ACM CCS Distinguished Paper Award</font>** @ ACM CCS
+- *2022.06* Microsoft Research Asia Star of Tomorrow Award @MSRA
+- *2019.08* National Scholarship (for top 0.2% students in China) @National Ministry of Education
+- *2021.09* 26th IEEE Symposium on Computers and Communications (ISCC 2021) Best Paper Award @IEEE ISCC

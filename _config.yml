@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yijiang (William) Li"
-description              : "Trustworthy Machine Learning and Computer Vision"
-repository               : "williamium3000/williamium3000.github.io"
+title                    : "Peiran Wang"
+description              : "Trustworthy AI and AI for Security"
+repository               : "peiran-w/peiran-w.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yijiang (William) Li"
-  avatar           : "/images/yijiang_pic.jpg"
-  bio              : "Master's student at \nJohns Hopkins University"
-  location         : "Baltimre, MD, USA"
+  name             : "Peiran Wang"
+  avatar           : "/images/YoungPeiran.png"
+  bio              : "Master's student at \n Tsinghua University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Dx3z0m8AAAAJ&hl=en"
-  email            : "yli556@jhu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=mHy2_KIAAAAJ&hl=en"
+  email            : "whilebug@github.io"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "williamium3000"
+  github           : "peiran-w"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yijiang-li-36795b271"
+  linkedin         : ""
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
