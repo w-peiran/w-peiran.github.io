@@ -31,6 +31,15 @@
 
 <div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/UIUC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**University of Wisconsin–Madison, SaFoLab** | Research Intern | 2024.01 - Present
+- Large language model jailbreak defense
+- Prompt injection attack & defense
+- LLM for security
+</div>
+</div>
+
+<div class='paper-box-wo-shadow'><div class='paper-box-image'><div><img src='images/logos/UIUC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **University of Illinois Urbana-Champaign, Dream Lab** | Research Intern | 2024.01 - Present
 - Dataset distillation
 - AI safety
