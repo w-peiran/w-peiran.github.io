@@ -23,12 +23,12 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Peiran Wang"
   avatar           : "/images/YoungPeiran.png"
-  bio              : "Master's student at \n Tsinghua University"
+  bio              : "Master student at \n Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mHy2_KIAAAAJ&hl=en"
-  email            : "whilebug@github.io"
+  email            : "whilebug@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peiran-w"
+  github           : "WhileBug"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : ""
-  dblp             : #"https://dblp.org/pid/75/6568-6.html"
-  orcid            : #"https://orcid.org/0000-0002-9160-3848"
+  dblp             : "https://dblp.org/pid/308/9920.html" #"https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0000-0001-6881-2855" #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
