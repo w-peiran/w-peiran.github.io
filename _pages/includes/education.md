@@ -5,7 +5,7 @@
 <div class='paper-box-wo-shadow'>
     <div class='paper-box-image' width="50%">
         <div>
-            <img src='images/logos/THU.png' alt="sym" width="100%">
+            <img src='images/logos/THU.png' alt="sym" width="50%">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -18,7 +18,7 @@
 <div class='paper-box-wo-shadow'>
     <div class='paper-box-image' width="50%">
         <div>
-            <img src='images/logos/SCU.png' alt="sym" width="100%">
+            <img src='images/logos/SCU.png' alt="sym" width="50%">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
