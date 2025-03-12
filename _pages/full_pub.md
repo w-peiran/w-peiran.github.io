@@ -6,7 +6,7 @@ author_profile: true
 ---
 # 📝 Full List of Publications and Preprints 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, in submission</div><img src='images/CVPR2025-WassDD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, in submission</div><img src='../images/CVPR2025-WassDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Dataset Distillation via the Wasserstein Metric**<br>
 Liu, H., **Wang, P.**, Xing, T., Li, Y., Dalal, V., Li, L., He, J., Wang, H.<br>
