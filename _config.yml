@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peiran Wang"
-description              : "Trustworthy AI and AI for Security"
+description              : "AI Security/Safety and AI for Security"
 repository               : "peiran-w/peiran-w.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Peiran Wang"
-  avatar           : "/images/YoungPeiran.png"
-  bio              : "Master student at \n Tsinghua University"
+  avatar           : "/images/GPT-4o-Peiran.png"
+  bio              : "Incoming CS PhD in UCLA"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
